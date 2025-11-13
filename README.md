@@ -16,8 +16,8 @@
 
 **Языки и AI**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,regex" height="40" />
-  <img src="https://skillicons.dev/icons?i=ai,opencv,tensorflow" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" />
 </p>
 
 **Инфраструктура и сборки**
@@ -32,7 +32,7 @@
 
 **Дизайн / контент**
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva,ae,ps" height="40" />
+  <img src="https://skillicons.dev/icons?i=figma,ps" height="40" />
 </p>
 
 ---
