@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Дмитрий</h1>
+<h3 align="center">Разрабатываю AI-инструменты, автоматизации и Telegram-ботов</h3>
 
-<!--
-**dimaxai/dimaxai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Чем занимаюсь
+- Создаю Telegram-ботов: от простых утилит до многоэтажных систем с API, базами данных и AI-ядром  
+- Собираю и внедряю AI-процессы: обработка данных, RAG, автогенерация текстов, интеграции с LLM  
+- Делаю automation-решения под задачи: парсеры, мини-агенты, цепочки, автопостинг, сервисы под бизнес  
+- Создаю визуал: AI-аватарки, обложки, логотипы, презентации  
+- Веду проекты, собираю идеи в продукты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Технологии и инструменты
+
+**Языки и AI**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,regex" height="40" />
+  <img src="https://skillicons.dev/icons?i=ai,opencv,tensorflow" height="40" />
+</p>
+
+**Инфраструктура и сборки**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,cloudflare" height="40" />
+</p>
+
+**Инструменты разработки**
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,githubactions,sqlite" height="40" />
+</p>
+
+**Дизайн / контент**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,canva,ae,ps" height="40" />
+</p>
+
+---
+
+### 📌 Мои направления
+- AI-агенты и автономные системы  
+- Парсеры и headless-браузеры  
+- Telegram-боты с архитектурой модулей  
+- Продукты, которые решают реальные задачи  
+- Визуал, который цепляет  
+- Системный подход: от идеи → до релиза  
+
+---
+
+### 🔗 Контакты
+<p>
+  <a href="https://t.me/dima_xai"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" /></a>
+  <a href="mailto:xaistudio@vk.com"><img src="https://img.shields.io/badge/Email-000?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub статистика
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="160" />
+</p>
+
+---
+
+### ❇️ Немного обо мне
+Я люблю собирать системы из хаоса.  
+Мне интересны технологии, которые дают свободу: автоматизация, ИИ, архитектура процессов.  
+Я делаю инструменты под себя и под других — быстрые, честные, работающие.  
+
+Если ты в теме — залетай.
